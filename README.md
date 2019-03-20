@@ -56,7 +56,4 @@ SegmentFault 在线讲堂 代码工程
 
 # 技术交流
 
-
-## QQ群
-
-![QQ交流群](https://segmentfault.com/img/bVPiTl)
+记录
